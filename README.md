@@ -1,1 +1,2 @@
-#Hybrid assembly by short read and long read sequencing 
+# Hybrid assembly by short read and long read sequencing  (shortLongAssembly.sh)
+
